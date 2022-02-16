@@ -1,2 +1,2 @@
-# mysql_helper
+# mysql-helper
 mysql notes
